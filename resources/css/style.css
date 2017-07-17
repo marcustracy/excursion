@@ -1,0 +1,17 @@
+/* Global Styling */
+html {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  }
+
+a.headinglink {
+  color: aquamarine;
+  font-size: 16px;
+}
